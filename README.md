@@ -2,7 +2,7 @@
 Software Analysis and Development Student.
 ------------------------------------------
 
-I started programming 1 year ago, and i've been studying all days.
+I started programming 1 year ago and i've been studying all days since then.
 
 * 🌍  I'm based in Porto Alegre, RS
 * 🧠  I'm learning HTML, CSS and JavaScript
