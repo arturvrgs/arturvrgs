@@ -1,10 +1,8 @@
-Hi 👋 My name is Artur Vargas
-=============================
 
 Software Analysis and Development Student.
 ------------------------------------------
 
-Studying all days.
+I started programming 1 year ago, and i've been studying all days.
 
 * 🌍  I'm based in Porto Alegre, RS
 * 🧠  I'm learning HTML, CSS and JavaScript
