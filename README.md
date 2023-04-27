@@ -1,5 +1,5 @@
 
-Software Analysis and Development Student.
+Software Development Student.
 ------------------------------------------
 
 I started programming 1 year ago and i've been studying all days since then.
