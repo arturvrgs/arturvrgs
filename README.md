@@ -1,4 +1,4 @@
-Software Analysis and Development Student.
+Software Development Student.
 ------------------------------------------
 
 Studying all days.
