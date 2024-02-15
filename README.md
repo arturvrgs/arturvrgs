@@ -2,7 +2,7 @@ Software Development Student.
 ------------------------------------------
 
 <div align="center">
-<img src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif" align="center" style="width: 200px" />
+<img src="https://cdn.dribbble.com/users/698857/screenshots/2956148/final-animation.gif" align="center" style="width: 100px" />
 </div>  
   
 
