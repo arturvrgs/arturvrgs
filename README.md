@@ -3,7 +3,7 @@
 ###
 
 <h2 align="left">Take a look at my portfolio:</h2>
-<a href="https://portfolio-blue-five-39.vercel.app/" align="left">Click Here</a>
+<a  target="_blank" href="https://portfolio-blue-five-39.vercel.app/" align="left">Click Here</a>
 
 ###
 
