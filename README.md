@@ -1,12 +1,3 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="left">Take a look at my portfolio:</h2>
-<a  target="_blank" href="https://portfolio-blue-five-39.vercel.app/" align="left">Click Here</a>
-
-###
-
 <p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java</p>
 
 ###
